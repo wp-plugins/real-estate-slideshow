@@ -6,10 +6,12 @@ Tested up to: 4.2.2
 Stable tag: trunk
 License: GPL2
 
-Property and Real Estate Plugin for WordPress. Creates a slideshow with latest real estate listings for sale and for rent.
+Free Property and Real Estate Plugin for WordPress. Creates a slideshow with latest real estate listings for sale and for rent.
 
 == Description ==
-Add a slideshow with latest real estate listings for sale and for rent on your website.
+Add an image slideshow with latest real estate listings for sale and for rent on your website or blog.
+
+Website : https://www.genteycasas.com
 
 ####Add to your page or post using \"shortcodes\":
 
